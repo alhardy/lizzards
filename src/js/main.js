@@ -12,7 +12,7 @@ jQuery(function ($) {
         //Google Map
 
         var mapCanvas = document.getElementById('map-canvas');
-        var myLatlng = new google.maps.LatLng(60.391263, 5.322054); //your latitude and longitude here
+        var myLatlng = new google.maps.LatLng(-33.6671261, 150.649659); //your latitude and longitude here
         var mapOptions = {
             zoom: 16,
             scrollwheel: false,
@@ -21,8 +21,7 @@ jQuery(function ($) {
         }
         var map = new google.maps.Map(mapCanvas, mapOptions)
         var marker = new google.maps.Marker({
-            position: myLatlng,
-            icon: 'img/mapmarker.png',
+            position: myLatlng,            
             map: map,
             title: ''
         });

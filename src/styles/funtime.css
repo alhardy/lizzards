@@ -3,7 +3,7 @@
 ============================ */
 /*________  Blue________  */
 
-footer,
+
 .nav-pills>li>a,
 .nav.nav-tabs>li>a,
 .navbar-custom ul.nav ul.dropdown-menu,
@@ -16,7 +16,9 @@ footer,
 .breadcrumb,
 .label-default,
 .pager li > a, .pager li > span
-{background-color:#34327C;}
+{background-color:#EC9600;}
+
+footer {background-color:#34327C;}
 
  h1,
  a,
@@ -27,13 +29,13 @@ footer,
 #blog-page blockquote:before,
 #contact i,
 .latest-caption h4
-{color:#34327C;}
+{color:#EC9600;}
 
 #owl-about img,
 .team-item:hover img,
 .gallery-thumb:hover .overlay-mask,
 #call-to-action
-{border-color:#34327C;}
+{border-color:#EC9600;}
 
 /* SVG path */
 #deco-clouds path {
@@ -57,8 +59,6 @@ h2,.btn,
 .pagination>li>a:focus,
 .pager li > a:hover,
 .pager li > a:focus,
-.navbar-brand-centered:hover,
-.navbar-brand-centered:focus,
 .navbar-toggle:focus,
 .navbar-toggle:active,
 .navbar-toggle:hover,
@@ -78,7 +78,7 @@ h2,.btn,
 .nav.nav-tabs>li.active>a,
 .pricing-item:hover .pricing-deco,
 .blog-tags a:hover
-{background-color:#d12881;}
+{background-color:#72FD00;}
 
 a:hover, a:focus,
 .breadcrumb a:hover,
@@ -86,13 +86,13 @@ a:hover, a:focus,
 .media-heading small,
 #about .media i,
 .latest-caption h4:hover
-{color:#d12881;}
+{color:#72FD00;}
 
-.btn{border-color:#d12881;}
+.btn{border-color:#72FD00;}
 
 /*________  gradient________  */
 
-.img-effect {background: linear-gradient(-45deg, #d12881 0%,#EC9600 100%);}
+.img-effect {background: linear-gradient(-45deg, #72FD00 0%,#EC9600 100%);}
 
 /*________  Yellow________  */
 

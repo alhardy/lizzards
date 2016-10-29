@@ -769,11 +769,13 @@ blockquote small:before{display:none;}
 #owl-team {
 	background:#fff;
 	border-radius:20px;
+	height: 480px !important;
 }
 
 .team-item {
   color: #fff;
   position: relative;
+  height: 480px !important;
 }
 
 .team-item img {
@@ -1659,6 +1661,8 @@ hr {
 }
 
 /* Image Gradient Hover effect */
+
+
 
 .img-effect {overflow:hidden;}
 
