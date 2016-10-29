@@ -769,22 +769,17 @@ blockquote small:before{display:none;}
 #owl-team {
 	background:#fff;
 	border-radius:20px;
-	height: 480px !important;
+	
 }
 
 .team-item {
   color: #fff;
-  position: relative;
-  height: 480px !important;
-}
-
-.team-item img {
+  position: relative;  
   padding:10px;
   max-width: 100%;
   border-radius:50%;
-  box-shadow: 6px 6px 0px rgba(103, 102, 102, 0.2);
-  transition: all 0.3s;
   border: 10px solid;
+  height: 320px;	
 }
 
 .team-item .team-caption {
@@ -793,8 +788,9 @@ blockquote small:before{display:none;}
 	transition: all 0.3s;
     position: absolute;
     padding: 10px;
-	  text-align:center;
+	 text-align:center;
     border-radius: 20px;
+	height: 300px;	
 }
 
 .team-item .team-caption h4,
