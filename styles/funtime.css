@@ -16,9 +16,9 @@
 .breadcrumb,
 .label-default,
 .pager li > a, .pager li > span
-{background-color:#71e00f;}
+{background-color:#286619;}
 
-footer {background-color:#71e00f;}
+footer {background-color:#286619;}
 
  h1,
  a,
@@ -39,8 +39,8 @@ footer {background-color:#71e00f;}
 
 /* SVG path */
 #deco-clouds path {
-	fill: #71e00f;
-	stroke: #71e00f;
+	fill: #286619;
+	stroke: #286619;
 }
 
 /*________  Pink________  */
@@ -86,13 +86,13 @@ a:hover, a:focus,
 .media-heading small,
 #about .media i,
 .latest-caption h4:hover
-{color:#71e00f;}
+{color:#286619;}
 
 .btn{border-color:#EC9600;}
 
 /*________  gradient________  */
 
-.img-effect {background: linear-gradient(-45deg, #71e00f 0%,#EC9600 100%);}
+.img-effect {background: linear-gradient(-45deg, #286619 0%,#EC9600 100%);}
 
 /*________  Yellow________  */
 
@@ -127,7 +127,7 @@ footer a,
 .blog-tags a,
 .date-category,
 .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover
-{background-color:#71e00f;}
+{background-color:#286619;}
 
 
 .team-item img,
@@ -138,7 +138,7 @@ footer a,
 .comment,
 .header-text,
 .open>.dropdown-toggle.btn-default:focus, .open>.dropdown-toggle.btn-default:hover
-{border-color:#71e00f;}
+{border-color:#286619;}
  
 /*________  Secondary yellow________  */
 
