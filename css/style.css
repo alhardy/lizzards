@@ -355,7 +355,7 @@ i {transition: all .2s ease-in-out;}
 
 .service {
 	background-color:#fff;
-    text-align: center;
+    text-align: left;
 	padding:30px;
 	border-radius:20px;
 }
