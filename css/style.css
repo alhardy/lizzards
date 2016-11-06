@@ -238,7 +238,7 @@ i {transition: all .2s ease-in-out;}
 }
 
 .navbar-custom ul.nav li a {
-	font-size: 16px;
+	font-size: 14px;
 	text-align: center;
     transition: background .2s ease-in-out;
 	font-family: 'Lato',sans-serif;
@@ -2171,7 +2171,7 @@ textarea.form-control:focus{outline:0 none;}
     }
 	.navbar-left {margin-left: 0%;}
 		
-    .navbar-custom ul.nav li a {font-size: 16px;}
+    .navbar-custom ul.nav li a {font-size: 14px;}
 	
     .navbar-nav>li {float: none;}
 	
@@ -2391,7 +2391,7 @@ textarea.form-control:focus{outline:0 none;}
 	}
 	.navbar-custom ul.nav ul.dropdown-menu li a {margin: 0px;}
 	
-	.navbar-custom ul.nav li a {font-size: 16px;line-height: 40px;}
+	.navbar-custom ul.nav li a {font-size: 14px;line-height: 40px;}
 	
 	.navbar-header {height: 50px !important;}
 
@@ -2460,7 +2460,7 @@ textarea.form-control:focus{outline:0 none;}
 
 	.nav.nav-tabs > li > a {
 	min-height: 30px;
-		font-size: 16px;
+		font-size: 14px;
 		padding: 15px 15px;
 		line-height: 15px;
 	}
