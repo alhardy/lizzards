@@ -1,8 +1,3 @@
-/*
-Template Name:  Alphabet
-Author: Ingrid Kuhn
-Author URI: http://themeforest.net/user/ingridk
-*/
 jQuery(function ($) {
 
     $(document).ready(function () {

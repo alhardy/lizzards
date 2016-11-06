@@ -1,31 +1,4 @@
 /*
-Template Name: Alphabet
-Author: Ingrid Kuhn
-Author URI: themeforest/user/ingridk
-Version: 1.0
-Last change: 08th june 2016 
-
-	Table of Contents
-
-	#General and Typography
-	#Preloader
-	#Navigation
-	#Logo
-	#Main Slider
-	#Section - Services
-	#Section - Callout
-	#Section - About us
-	#Section - Team
-	#Section - Activities
-	#Section - Gallery
-	#Section - Blog
-	#Section - Prices
-	#Section - Call to Action
-	#Section - Contact
-    #Section - Footer
-	#Miscellaneous
-	#Media Queries
-
 ===========================
   General and Typography
 ============================ */
@@ -2424,7 +2397,7 @@ textarea.form-control:focus{outline:0 none;}
 
 	.header-text {
 		top: 30% !important;
-		padding: 5px! 0 5px !important;
+		padding: 5px 0 5px;
 	}
 	.header-text h1 {font-size:20px !important;}
 
