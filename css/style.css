@@ -774,8 +774,7 @@ blockquote small:before{display:none;}
 .team-item .team-caption h4,
 .team-item .team-caption p {
   margin: 0;
-  color: #fff !important;
-  font-weight:700;
+  color: #fff !important;  
   padding:0px;
 }
 
