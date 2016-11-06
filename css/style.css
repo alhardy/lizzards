@@ -296,7 +296,7 @@ i {transition: all .2s ease-in-out;}
 }
 
 .navbar-brand-centered img {
-	max-height: 75px;
+	max-height: 90px;
     position: absolute;
     left: 0;
     right: 0;
