@@ -123,9 +123,9 @@ div.pp_pic_holder{display:none;position:absolute;width:100px;z-index:10000}
 .pp_content_container .pp_right{padding-right:20px}
 .pp_content_container .pp_details{float:left;margin:10px 0 2px}
 .pp_description{display:none;margin:0}
-.pp_social{float:left;margin:0}
-.pp_social .facebook{float:left;margin-left:5px;width:55px;overflow:hidden}
-.pp_social .twitter{float:left}
+.pp_social{float:left;margin: 0;display: none;}
+.pp_social .facebook{float:left;margin-left:5px;width:55px;overflow: hidden;display: none;}
+.pp_social .twitter{float: left;display: none;}
 .pp_nav{clear:right;float:left;margin:3px 10px 0 0}
 .pp_nav p{float:left;white-space:nowrap;margin:2px 4px}
 .pp_nav .pp_play,.pp_nav .pp_pause{float:left;margin-right:4px;text-indent:-10000px}
