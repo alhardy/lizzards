@@ -355,9 +355,14 @@ i {transition: all .2s ease-in-out;}
 
 .service {
 	background-color:#fff;
-    text-align: left;
+    text-align: center;
 	padding:30px;
 	border-radius:20px;
+}
+
+.service p {
+    text-align: left;
+    
 }
 
 .service h4 {
