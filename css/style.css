@@ -764,7 +764,6 @@ blockquote small:before{display:none;}
     bottom: 0px;
     right: -10px;
 	transition: all 0.3s;
-    position: absolute;
     padding: 10px;
 	 text-align:center;
     border-radius: 20px;
@@ -2332,7 +2331,6 @@ textarea.form-control:focus{outline:0 none;}
 	
 	.owl-carousel {padding: 0px;}
 	
-	.team-caption p,.owl-nav {display:none;}
 	
 	.tab-pane h3 {margin-top:10px;}
 	
