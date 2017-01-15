@@ -210,6 +210,10 @@ i {transition: all .2s ease-in-out;}
   transition: background .2s ease-in-out;
 }
 
+.navbar-nav.navbar-right > li > a {
+  padding: 10px 30px; 
+}
+
 .navbar-custom ul.nav li a {
 	font-size: 13px;
 	text-align: center;
