@@ -152,7 +152,6 @@ jQuery(function ($) {
 
         $("#preloader").fadeOut("slow");
 
-
         //Load Skrollr
 
 		var skr0llr = skrollr.init({
@@ -199,15 +198,16 @@ jQuery(function ($) {
             });
             return false;
         });
-		
+
+        $("#open-day-lb").trigger("click");
+
     });
 
     //On Click  function
-	$(document).on('click',function(){
-		
-			//Navbar toggle
-			$('.navbar .collapse').collapse('hide');
-	})		 
-	 	
-   
+    $(document).on('click',
+        function() {
+
+            //Navbar toggle
+            $('.navbar .collapse').collapse('hide');
+        });
 });
