@@ -164,16 +164,6 @@ jQuery(function ($) {
 
         //Portfolio Isotope 
 		
-        var $container = $('#lightbox');
-        $container.isotope({
-            filter: '*',
-            animationOptions: {
-                duration: 750,
-                easing: 'linear',
-                queue: false
-            }
-        });
-		
 		$(window).smartresize(function(){
 			$container.isotope({
 			columnWidth: '.col-sm-3'
